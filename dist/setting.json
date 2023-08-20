@@ -1,0 +1,17 @@
+{
+    "url": "127.0.0.1",
+    "db": "blingodi_tridarma",
+    "user": "blingodi_tridarma",
+    "password": "Tridarma123!",
+    "input": "D:\\Pelatihan\\PUSAT\\dishph2h\\api\\txt\\input\\",
+    "output": "D:\\Pelatihan\\PUSAT\\dishph2h\\api\\txt\\output\\",
+    "sshHost": "lumineon.sg.rapidplex.com",
+    "sshPort": 64000,
+    "sshUser": "blingodi",
+    "sshPassword": "HN6bQ17bI!8-en",
+    "dbHost": "127.0.0.1",
+    "dbPort": 3306,
+    "dbName": "blingodi_tridarma",
+    "dbUser": "blingodi_tridarma",
+    "dbPassword": "Tridarma123!"
+}
